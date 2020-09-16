@@ -29,11 +29,9 @@ CodeCademy JavaScript - https://www.codecademy.com/learn/introduction-to-javascr
 N/A
 
 ## Badges
-![Git Hub Languages](https://img.shields.io/github/languages/top/aguerra1508/aguerra1508.github.io)
+![GitHub top language](https://img.shields.io/github/languages/top/aguerra1508/04-Homework-Coding-Quiz)
 
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Faguerra1508.github.io%2FHomework%2F03-Homework%2Findex.html)
-
-![GitHub](https://img.shields.io/github/license/aguerra1508/aguerra1508.github.io)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Faguerra1508.github.io%2F04-Homework-Coding-Quiz%2F)
 
 ## Contributing
 
