@@ -8,8 +8,7 @@ An application used to help quiz and test knowledge of JavaScript fundamentals. 
 
 A web browser such as Google Chrome, Internet Explorer or Firefox is needed to run the application.
 
-The application can be accessed via the following link: https://aguerra1508.github.io/Homework/04-Homework/index.html
-
+The application can be accessed via the following link: https://aguerra1508.github.io/04-Homework-Coding-Quiz/
 ## Usage 
 
 The application opens to the Welcome screen to begin with a short set of instructions. Once the user is ready to begin the quiz, they click "Start Quiz". A question and set of answer choices will appear on the screen. The user will click the answer button of their choice, if is correct, their score will increase by one point and correct will flash on the screen. If incorrect, the user will lose 10 seconds of time from the quiz and incorrect will flash on the screen. The quiz will then move on to the next question. If the user runs out of time or if the user completes all the questions prior to the time being up, the game will end. The user may then choose to input their initials on the high score page. 
